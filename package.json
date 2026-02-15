@@ -3,15 +3,19 @@
   "version": "1.0.0",
   "description": "a backend at chai aur code channel - youtube",
   "type": "module",
+<<<<<<< HEAD
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
+=======
+>>>>>>> 6d7682ae87cb24209b2d87f154cc582ddd8fd7a6
   "keywords": [
     "javascript",
     "backend",
     "chai"
   ],
+<<<<<<< HEAD
   "author": "Hitesh Choudhary",
   "license": "ISC",
   "devDependencies": {
@@ -29,5 +33,28 @@
     "mongoose": "^8.0.0",
     "mongoose-aggregate-paginate-v2": "^1.0.6",
     "multer": "^1.4.5-lts.1"
+=======
+  "license": "ISC",
+  "author": "Chandan Kumar",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "prettier": "^3.8.1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cloudinary": "^2.9.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.5",
+    "mongoose-aggregate-paginate-v2": "^1.1.4",
+    "multer": "^2.0.2"
+>>>>>>> 6d7682ae87cb24209b2d87f154cc582ddd8fd7a6
   }
 }

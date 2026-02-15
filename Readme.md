@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chai aur backend  series 
 
 This is a video series on backend with javascript
@@ -22,3 +23,9 @@ Top Contributer to complete all TODOs
 ## How to contribute in this open source Project
 
 First, please understand that this is not your regular project to merge your PR. This repo requires you to finish all assignments that are in controller folder. We don't accept half work, please finish all controllers and then reach us out on [Discord](https://hitesh.ai/discord) or [Twitter](https://twitter.com/@hiteshdotcom) and after checking your repo, I will add link to your repo in this readme.
+=======
+# chai or backend series
+
+This is viseo series on backend with javascript
+Model Link - ( https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1HdTdCWXFhRmloUWp1X1dfV0VmZk1YUGZpZ3xBQ3Jtc0tucDJ4cGtmOGsxQlFXOWlybHFZT3R0aE04eWE0dnJFTU9aekhGMnlMLWZnVmhrTFVuY0ItczdzYl9BQjJCbS1YYlJvSXR1YWNzeEtHdTNla0RlR3RZbDdWVlJ3MFc4cVJKWkZ6RzBBSjB2TWpGR2FQaw&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc )
+>>>>>>> 6d7682ae87cb24209b2d87f154cc582ddd8fd7a6

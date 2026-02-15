@@ -1,7 +1,16 @@
 {
+<<<<<<< HEAD
     "singleQuote": false,
     "bracketSpacing": true,
     "tabWidth": 2,
     "trailingComma": "es5",
     "semi": true
 }
+=======
+  "singleQuote": false,
+  "bracketSpacing": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "semi": true
+}
+>>>>>>> 6d7682ae87cb24209b2d87f154cc582ddd8fd7a6
